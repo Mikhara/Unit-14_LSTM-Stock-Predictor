@@ -46,28 +46,40 @@ Model 1 (LSTM RNN Closing Prices) has the lower loss at each of the different wi
 
 **At Window 10, Batch size = 10**
 
-* 
+* Model 1 trackes better over time
+
+Model 1
 ![image](LSTM_closing_prices_window10_batch10.png)
+Model 2
 ![image](LSTM_FNG_window10_batch10.png)
 
 
 **At Window 10, Batch size = 1**
 	
-* 
+* Model 1 trackes better over time
+
+Model 1
 ![image](LSTM_closing_prices_window10_batch1.png)
+Model 2
 ![image](LSTM_FNG_window10_batch1.png)
 
 **At Window 5, Batch size = 10**
 
-* 
+* Model 1 trackes better over time
+
+Model 1
 ![image](LSTM_closing_prices_window5_batch10.png)
+Model 2
 ![image](LSTM_FNG_window5_batch10.png)
 
 
 **At Window 1, Batch size = 10**
 
-* 
+* They track the same.
+
+Model 1
 ![image](LSTM_closing_prices_window1_batch10.png)
+Model 2
 ![image](LSTM_FNG_window1_batch10.png)
 
 
